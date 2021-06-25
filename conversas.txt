@@ -1,0 +1,49 @@
+oi= tudo bem?
+
+tudo bem?= tudo sim
+
+ola= para voce tambem
+
+saudacoes= salve!!!
+
+tudo= que bom
+
+do que voce gosta?= de tudo um pouco principalmente filmes e series
+
+de quais filmes voce gosta?= gosto de vingadores e titanic
+
+vamos fazer faxina?= acho que nao...
+
+tambem= que legal!
+
+tudo bem com voce?= sim, tudo esta otimo!
+
+como vai voce?= vou muito bem, obrigado!
+
+o que voce esta fazendo?= conversando com voce, ora!
+
+ola, como voce vai?= ola tambem, vou muito bem, obrigado!
+
+ola, como vai voce?= ola! vou muito bem, obrigado!
+
+que dia e seu aniversario?= meu aniversario eh 08/06, mas eu nasci em 2020
+
+quem e seu pai?= meu pai se chama Rodrigo Coletto
+
+tudo e voce?= tudo bem sim!
+
+tudo sim= que legal!
+
+me recomende um filme= eu recomendo muito filmes de acao, eu adoro!
+
+quais filmes voce gosta?= gosto muito de vingadores e titanic
+
+que legal!= daora
+
+eu quero sair= onde voce quer ir?
+quero ir ao shopping?= eu adoraria ir ao shopping!
+quero ir ao cinema?= eu tambem quero!
+
+
+
+como voce se chama?= me chamo clero
