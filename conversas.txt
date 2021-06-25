@@ -28,8 +28,6 @@ ola, como vai voce?= ola! vou muito bem, obrigado!
 
 que dia e seu aniversario?= meu aniversario eh 08/06, mas eu nasci em 2020
 
-quem e seu pai?= meu pai se chama Rodrigo Coletto
-
 tudo e voce?= tudo bem sim!
 
 tudo sim= que legal!
